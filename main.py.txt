@@ -1,2 +1,4 @@
 def topla(x, y):
 	return x + y
+def message():
+	print ("islem tamam!")
